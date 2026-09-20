@@ -239,4 +239,4 @@ This repository serves as the official landing page for Hattrick Organizer. The 
 **Get the most recent version of Hattrick Organizer today!**
 
 ---
-**Last updated:** 2026-09-20 21:11:24 UTC
+**Last updated:** 2026-09-20 23:52:51 UTC
